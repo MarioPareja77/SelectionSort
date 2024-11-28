@@ -62,4 +62,14 @@ public class SelectionSort {
         }
         return false;
     }
+
+    /**
+     * Mètode principal per mostrar el missatge.
+     * 
+     * @param args arguments de la línia de comandes (no utilitzats aquí).
+     */
+    public static void main(String[] args) {
+        // Mostra el missatge
+        System.out.println("Sóc el Mario Pareja Nieto. He aprés molt fent el mòdul 8 de DAW encara que hagi estat dur!!!");
+    }
 }
